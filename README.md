@@ -2,9 +2,11 @@
  👋 Hi, I’m @katze333 aka Sébastien Côrriveau <br>
  👀 I’m interested in science, data, learning <br>
  🚵 I'm good at SQL, Python, GCP, VBA and I've work with HTML, CSS, Php MySQL in the past <br>
- ⚡ I currently work for TELUS Health and I'm automating SAP extractions to GCP project for the finance team <br>
+ ⚡ I currently work for TELUS Health and I'm automating finance data extract / transform / load (SAP, GCP, Workday, etc.) <br>
+ 🌞 I dream I would work into scientific research / agriculture / something like it! <br>
+ 💛 I love databases! <br>
  🌱 I also love gardening, biking, music <br>
- 👄 I speak French, English and Spanish, and I sing in German, Latin, Innu-aimun, Italian, and counting... <br>
+ 👄 I speak French, English and Spanish, and I can sing in German, Latin, Innu-aimun, Italian, and counting... <br>
  🐈‍⬛ katze means 🐈‍⬛ in German! <br>
  <br>
 
